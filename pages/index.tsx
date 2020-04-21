@@ -31,7 +31,7 @@ export default () => (
       </FormItem>
 
       <FormItem label="Switch" labelCol={{ span: 8 }} wrapperCol={{ span: 8 }}>
-        <Switch defaultChecked name="switch" />
+        <Switch defaultChecked className="switch" />
       </FormItem>
 
       <FormItem label="Slider" labelCol={{ span: 8 }} wrapperCol={{ span: 8 }}>
@@ -43,7 +43,7 @@ export default () => (
           size="large"
           defaultValue="lucy"
           style={{ width: 192 }}
-          name="select"
+          className="select"
         >
           <Option value="jack">jack</Option>
           <Option value="lucy">lucy</Option>
