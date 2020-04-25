@@ -14,26 +14,11 @@ Deploy the example using [Vercel](https://vercel.com):
 
 ## How to use
 
-### Using `create-next-app`
+### Download from this repo
 
-Execute [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+use `git clone git@github.com:Suniron/NextJS-Typescript-Antd-CustomTheme.git` into a terminal
 
-```bash
-npm init next-app --example with-ant-design-less with-ant-design-app
-# or
-yarn create next-app --example with-ant-design-less with-ant-design-app
-```
-
-### Download manually
-
-Download the example:
-
-```bash
-curl https://codeload.github.com/zeit/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/with-ant-design-less
-cd with-ant-design-less
-```
-
-Install it and run:
+### Install it and run
 
 ```bash
 npm install
