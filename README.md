@@ -2,6 +2,10 @@
 
 This example shows how to use Next.js along with [Ant Design of React](http://ant.design). This is intended to show the integration of this UI toolkit with the Framework.
 
+## Customize Ant Design theme
+
+You just have to uncomment and customize lines into `./assets/ant-custom.less` !
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com):
