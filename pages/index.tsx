@@ -6,10 +6,10 @@ import {
   Switch,
   Slider,
   Button,
-} from 'antd'
+} from "antd";
 
-const FormItem = Form.Item
-const Option = Select.Option
+const FormItem = Form.Item;
+const Option = Select.Option;
 
 export default () => (
   <div style={{ marginTop: 100 }}>
@@ -71,4 +71,4 @@ export default () => (
       </FormItem>
     </Form>
   </div>
-)
+);

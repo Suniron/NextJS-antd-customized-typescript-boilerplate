@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "description": "Etienne BLANC - Portfolio",
+  "name": "nextjs-typescript-antd-custom",
+  "description": "NextJS + Typescript + Ant Design + Custom AntD theme boilerplate by Etienne BLANC",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -22,7 +22,7 @@
     "sass": "^1.26.3",
     "sass-loader": "^8.0.2"
   },
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^13.13.1",
     "@types/react": "^16.9.34",
